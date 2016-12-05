@@ -10,7 +10,7 @@ var search = instantsearch({
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#q',
-    placeholder: 'What are you curious about?'
+    placeholder: 'Search by name or interest'
   })
 );
 
@@ -21,6 +21,7 @@ search.addWidget(
 );
 
 search.on('render', function() {
+  console.log(this);
   $('.coach-picture img').addClass('transparent');
   $('.coach-picture img').one('load', function() {
       $(this).removeClass('transparent');
@@ -31,15 +32,10 @@ search.on('render', function() {
 
 var hitTemplate =
   '<article class="hit">' +
-      /*'<div class="content-picture-wrapper">' +
-        '<div class="content-picture"><img src="{{image_path}}" /></div>' +
-      '</div>' +*/
       '<div class="content-desc-wrapper">' +
         '<div class="content-title"><a href={{{URL}}}>{{{_highlightResult.Title.value}}}</a></div>' +
         '<div class="content-date">{{Date updated}}</div>' +
-        '<div class="content-description">{{Extended description}}</div>' +
-
-        /*'<div class="content-descrption">{{#stars}}<span class="ais-star-rating--star{{^.}}__empty{{/.}}"></span>{{/stars}}</div>' +*/
+        '<div class="content-description">{{_highlightResult.description.value}}</div>' +
       '</div>' +
   '</article>';
 
@@ -58,10 +54,12 @@ var facetTemplateCheckbox =
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#hits',
-    hitsPerPage: 16,
+    hitsPerPage: 15,
+    highlightPreTag: "<em>",
+    highlightPostTag: "</em>",    
     templates: {
       empty: noResultsTemplate,
-      item: hitTemplate
+      item:  hitTemplate
     },
     transformData: function(hit) {
       hit.stars = [];
@@ -69,6 +67,10 @@ search.addWidget(
         hit.stars.push(i <= hit.rating);
       }
       return hit;
+    },
+    cssClasses: {
+      root: 'row',
+      item: 'col-xs-6 col-sm-4'
     }
   })
 );
@@ -87,82 +89,53 @@ search.addWidget(
   })
 );
 
-/*
-search.addWidget(
-  instantsearch.widgets.hierarchicalMenu({
-    container: '#categories',
-    attributes: ['category', 'sub_category', 'sub_sub_category'],
-    sortBy: ['name:asc'],
-    templates: {
-      item: menuTemplate
-    }
-  })
-);
-*/
-
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#audience',
     attributeName: 'Audience',
-    operator: 'or',
-    limit: 10,
-    templates: {
-      item: facetTemplateCheckbox,
-      header: '<div class="facet-title">Audience</div class="facet-title">'
+    limit: 100,
+    cssClasses: {
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
     }
   })
 );
+
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#media_type',
+    attributeName: 'Media type',
+    limit: 100,
+    cssClasses: {
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
+    }
+  })
+);
+
 
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#languages',
     attributeName: 'Languages',
-    operator: 'or',
-    limit: 10,
-    templates: {
-      item: facetTemplateCheckbox,
-      header: '<div class="facet-title">Languages</div class="facet-title">'
-    }
-  })
-);
-
-search.addWidget(
-  instantsearch.widgets.refinementList({
-    container: '#media-type',
-    attributeName: 'Media type',
-    operator: 'or',
-    limit: 10,
-    templates: {
-      item: facetTemplateCheckbox,
-      header: '<div class="facet-title">Media type</div class="facet-title">'
-    }
-  })
-);
-
-/*
-search.addWidget(
-  instantsearch.widgets.priceRanges({
-    container: '#prices',
-    attributeName: 'price',
+    limit: 100,
     cssClasses: {
-      list: 'nav nav-list',
-      count: 'badge pull-right',
-      active: 'active'
-    },
-    templates: {
-      header: '<div class="facet-title">Prices</div class="facet-title">'
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
     }
   })
 );
-*/
 
 
 search.addWidget(
   instantsearch.widgets.sortBySelector({
     container: '#sort-by-selector',
     indices: [
-      {name: 'coaching_content', label: 'Relevance'},
-      {name: 'coaching_content_date', label: 'Date updated'}
+      {name: 'coaching_content', label: 'Default'},
+      {name: 'coaching_content_date', label: 'Most recent'},
     ],
     label:'sort by'
   })
