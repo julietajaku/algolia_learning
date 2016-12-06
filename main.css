@@ -1,5 +1,6 @@
 body {
   font-family: Verdana, sans-serif;
+  font-size: 12px;
 }
 
 a {
@@ -97,8 +98,8 @@ aside {
 }
 
 aside .facet-category-title {
-  font-size: 1.5em;
-  padding-top: 15px;
+  font-size: 1em;
+  padding-top: 10px;
   font-weight: bold;
   color: #808080;
 }
