@@ -143,6 +143,19 @@ search.addWidget(
 );
 
 search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#product',
+    attributeName: 'product',
+    limit: 1000,
+    cssClasses: {
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
+    }
+  })
+);
+
+search.addWidget(
   instantsearch.widgets.sortBySelector({
     container: '#sort-by-selector',
     indices: [
