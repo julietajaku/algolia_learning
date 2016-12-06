@@ -33,9 +33,9 @@ search.on('render', function() {
 var hitTemplate =
   '<article class="hit">' +
       '<div class="content-desc-wrapper">' +
-        '<div class="content-title"><a href={{{URL}}}>{{{_highlightResult.Title.value}}}</a></div>' +
-        '<div class="content-date">{{Date updated}}</div>' +
-        '<div class="content-description">{{_highlightResult.description.value}}</div>' +
+        '<div class="content-title"><a href={{{URL}}}>{{{_highlightResult.title.value}}}</a></div>' +
+        '<div class="content-date">{{date}}</div>' +
+        '<div class="content-description">{{{_highlightResult.description.value}}}</div>' +
       '</div>' +
   '</article>';
 
@@ -92,7 +92,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#audience',
-    attributeName: 'Audience',
+    attributeName: 'audience',
     limit: 100,
     cssClasses: {
       root: 'checkbox',
@@ -105,7 +105,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#media_type',
-    attributeName: 'Media type',
+    attributeName: 'media_type',
     limit: 100,
     cssClasses: {
       root: 'checkbox',
@@ -119,7 +119,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#languages',
-    attributeName: 'Languages',
+    attributeName: 'languages',
     limit: 100,
     cssClasses: {
       root: 'checkbox',
