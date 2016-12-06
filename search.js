@@ -106,7 +106,7 @@ search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#media_type',
     attributeName: 'media_type',
-    limit: 100,
+    limit: 1000,
     cssClasses: {
       root: 'checkbox',
       list: 'list-group', 
@@ -120,7 +120,7 @@ search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#languages',
     attributeName: 'languages',
-    limit: 100,
+    limit: 1000,
     cssClasses: {
       root: 'checkbox',
       list: 'list-group', 
@@ -129,6 +129,18 @@ search.addWidget(
   })
 );
 
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#source',
+    attributeName: 'source',
+    limit: 1000,
+    cssClasses: {
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
+    }
+  })
+);
 
 search.addWidget(
   instantsearch.widgets.sortBySelector({

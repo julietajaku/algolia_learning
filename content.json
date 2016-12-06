@@ -1,7 +1,7 @@
 [
  {
    "id": 1,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "12: The Elements of Great Managing ",
    "product_CODED": "Q12",
@@ -23,7 +23,7 @@
  },
  {
    "id": 2,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Breaking the Fear Barrier ",
    "product_CODED": "",
@@ -45,7 +45,7 @@
  },
  {
    "id": 3,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Building Engaged Schools ",
    "product_CODED": "SE, SQ",
@@ -67,7 +67,7 @@
  },
  {
    "id": 4,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Decade of Change ",
    "product_CODED": "",
@@ -89,7 +89,7 @@
  },
  {
    "id": 5,
-   "source": "Press, Amazon",
+   "source": ["Press", "Amazon"],
    "category": "Book",
    "title": "Discover Your Sales Strengths ",
    "product_CODED": "SF",
@@ -111,7 +111,7 @@
  },
  {
    "id": 6,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Entrepreneurship in Nebraska ",
    "product_CODED": "",
@@ -133,7 +133,7 @@
  },
  {
    "id": 7,
-   "source": "Amazon, Press - Rosettabooks",
+   "source": ["Amazon", "Press - Rosettabooks"],
    "category": "Book",
    "title": "Expanding your Strengths ",
    "product_CODED": "SF",
@@ -155,7 +155,7 @@
  },
  {
    "id": 8,
-   "source": "Barnes & Noble, GSC- EP10",
+   "source": ["Barnes & Noble", "GSC- EP10"],
    "category": "Book",
    "title": "Entrepreneurial StrengthsFinder ",
    "product_CODED": "EP10",
@@ -177,7 +177,7 @@
  },
  {
    "id": 9,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "First, Break All the Rules ",
    "product_CODED": "Q12",
@@ -199,7 +199,7 @@
  },
  {
    "id": 10,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "God is Alive and Well ",
    "product_CODED": "",
@@ -221,7 +221,7 @@
  },
  {
    "id": 11,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Growing an Engaged Church ",
    "product_CODED": "SF",
@@ -243,7 +243,7 @@
  },
  {
    "id": 12,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "How Full Is Your Bucket? ",
    "product_CODED": "SF",
@@ -265,7 +265,7 @@
  },
  {
    "id": 13,
-   "source": "Press, Amazon",
+   "source": ["Press", "Amazon"],
    "category": "Book",
    "title": "How Full is Your Bucket? Educator's Edition ",
    "product_CODED": "SF, SE",
@@ -287,7 +287,7 @@
  },
  {
    "id": 14,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "How Full Is Your Bucket? For Kids ",
    "product_CODED": "SF, SE",
@@ -309,7 +309,7 @@
  },
  {
    "id": 15,
-   "source": "Store, Amazon",
+   "source": ["Store", "Amazon"],
    "category": "Report",
    "title": "How Millennials Want to Work and Live",
    "product_CODED": "SF, SQ",
@@ -331,7 +331,7 @@
  },
  {
    "id": 16,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Human Sigma ",
    "product_CODED": "",
@@ -353,7 +353,7 @@
  },
  {
    "id": 17,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "Living Your Strengths Catholic",
    "product_CODED": "SF",
@@ -375,7 +375,7 @@
  },
  {
    "id": 18,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "Living Your Strengths Protestant",
    "product_CODED": "SF",
@@ -397,7 +397,7 @@
  },
  {
    "id": 19,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Married to the Brand ",
    "product_CODED": "Q12",
@@ -420,7 +420,7 @@
 
  {
    "id": 20,
-   "source": "Amazon, GSC",
+   "source": ["Amazon", "GallupStrengthsCenter"],
    "category": "Book",
    "title": "Now, Discover Your Strengths ",
    "product_CODED": "SF",
@@ -442,7 +442,7 @@
  },
  {
    "id": 21,
-   "source": "Amazon, Press - Grand Central Publishing, Store",
+   "source": ["Amazon", "Press - Grand Central Publishing", "Store"],
    "category": "Book",
    "title": "Polling Matters ",
    "product_CODED": "",
@@ -465,7 +465,7 @@
 
  {
    "id": 22,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Power of 2 ",
    "product_CODED": "SF",
@@ -487,7 +487,7 @@
  },
  {
    "id": 23,
-   "source": "Amazon, Press - Dell",
+   "source": ["Amazon", "Press - Dell"],
    "category": "Book",
    "title": "Soar with Your Strengths",
    "product_CODED": "SF",
@@ -509,7 +509,7 @@
  },
  {
    "id": 24,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "Strengths Based Leadership ",
    "product_CODED": "SF",
@@ -531,7 +531,7 @@
  },
  {
    "id": 25,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "Strengths Based Parenting ",
    "product_CODED": "SF",
@@ -553,7 +553,7 @@
  },
  {
    "id": 26,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "Strengths-Based Selling ",
    "product_CODED": "SF",
@@ -575,7 +575,7 @@
  },
  {
    "id": 27,
-   "source": "Amazon, Store",
+   "source": ["Amazon", "Store"],
    "category": "Book",
    "title": "StrengthsExplorer Package",
    "product_CODED": "SE",
@@ -597,7 +597,7 @@
  },
  {
    "id": 28,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "StrengthsFinder 2.0 ",
    "product_CODED": "SF",
@@ -619,7 +619,7 @@
  },
  {
    "id": 29,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "StrengthsQuest ",
    "product_CODED": "SQ",
@@ -641,7 +641,7 @@
  },
  {
    "id": 30,
-   "source": "Amazon, GSC, Press, Store",
+   "source": ["Amazon", "GSC", "Press", "Store"],
    "category": "Book",
    "title": "Teach With Your Strengths ",
    "product_CODED": "SF",
@@ -663,7 +663,7 @@
  },
  {
    "id": 31,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "The Best of the Gallup Management Journal ",
    "product_CODED": "SF",
@@ -685,7 +685,7 @@
  },
  {
    "id": 32,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "The Coming Jobs War ",
    "product_CODED": "",
@@ -707,7 +707,7 @@
  },
  {
    "id": 33,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Vital Friends",
    "product_CODED": "VF",
@@ -729,7 +729,7 @@
  },
  {
    "id": 34,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Wellbeing: The Five Essential Elements ",
    "product_CODED": "WB",
@@ -751,7 +751,7 @@
  },
  {
    "id": 35,
-   "source": "Amazon, Press, Store",
+   "source": ["Amazon", "Press", "Store"],
    "category": "Book",
    "title": "Who Speaks for Islam? ",
    "product_CODED": "",
@@ -773,7 +773,7 @@
  },
  {
    "id": 36,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Achiever: the Drive to do More",
    "product_CODED": "SF",
@@ -795,7 +795,7 @@
  },
  {
    "id": 37,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Activator: Thriving on Moving Forward",
    "product_CODED": "SF",
@@ -817,7 +817,7 @@
  },
  {
    "id": 38,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Adaptability: The Future One Choice at a Time",
    "product_CODED": "SF",
@@ -839,7 +839,7 @@
  },
  {
    "id": 39,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Analytical: Seeking an Objective Understanding of the World",
    "product_CODED": "SF",
@@ -861,7 +861,7 @@
  },
  {
    "id": 40,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Arranger: Bringing People, Processes and Productivity Together",
    "product_CODED": "SF",
@@ -883,7 +883,7 @@
  },
  {
    "id": 41,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Belief: Motivation Ignited by Values",
    "product_CODED": "SF",
@@ -905,7 +905,7 @@
  },
  {
    "id": 42,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Command",
    "product_CODED": "SF",
@@ -927,7 +927,7 @@
  },
  {
    "id": 43,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Communication",
    "product_CODED": "SF",
@@ -949,7 +949,7 @@
  },
  {
    "id": 44,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Competition",
    "product_CODED": "SF",
@@ -971,7 +971,7 @@
  },
  {
    "id": 45,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Connectedness: Seeing the Bigger Picture",
    "product_CODED": "SF",
@@ -993,7 +993,7 @@
  },
  {
    "id": 46,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Consistency",
    "product_CODED": "SF",
@@ -1015,7 +1015,7 @@
  },
  {
    "id": 47,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Context",
    "product_CODED": "SF",
@@ -1037,7 +1037,7 @@
  },
  {
    "id": 48,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Deliberative: Approaching Issues with Thought and Care",
    "product_CODED": "SF",
@@ -1059,7 +1059,7 @@
  },
  {
    "id": 49,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Developer",
    "product_CODED": "SF",
@@ -1081,7 +1081,7 @@
  },
  {
    "id": 50,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Discipline",
    "product_CODED": "SF",
@@ -1103,7 +1103,7 @@
  },
  {
    "id": 51,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Empathy: Attentive to the Emotional State of Others",
    "product_CODED": "SF",
@@ -1125,7 +1125,7 @@
  },
  {
    "id": 52,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Focus: Starting with the End in Mind",
    "product_CODED": "SF",
@@ -1147,7 +1147,7 @@
  },
  {
    "id": 53,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Futuristic",
    "product_CODED": "SF",
@@ -1169,7 +1169,7 @@
  },
  {
    "id": 54,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Harmony: Getting Along with People and Getting Things Done",
    "product_CODED": "SF",
@@ -1191,7 +1191,7 @@
  },
  {
    "id": 55,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Ideation",
    "product_CODED": "SF",
@@ -1213,7 +1213,7 @@
  },
  {
    "id": 56,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Includer",
    "product_CODED": "SF",
@@ -1235,7 +1235,7 @@
  },
  {
    "id": 57,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Individualization",
    "product_CODED": "SF",
@@ -1257,7 +1257,7 @@
  },
  {
    "id": 58,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Input",
    "product_CODED": "SF",
@@ -1279,7 +1279,7 @@
  },
  {
    "id": 59,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Intellection",
    "product_CODED": "SF",
@@ -1301,7 +1301,7 @@
  },
  {
    "id": 60,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Learner",
    "product_CODED": "SF",
@@ -1323,7 +1323,7 @@
  },
  {
    "id": 61,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Maximizer: Taking Things From Good to Great",
    "product_CODED": "SF",
@@ -1345,7 +1345,7 @@
  },
  {
    "id": 62,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Positivity: Bringing Enthusiasm to Others",
    "product_CODED": "SF",
@@ -1367,7 +1367,7 @@
  },
  {
    "id": 63,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Relator",
    "product_CODED": "SF",
@@ -1389,7 +1389,7 @@
  },
  {
    "id": 64,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Responsibility",
    "product_CODED": "SF",
@@ -1411,7 +1411,7 @@
  },
  {
    "id": 65,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Restorative",
    "product_CODED": "SF",
@@ -1433,7 +1433,7 @@
  },
  {
    "id": 66,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Self-Assurance",
    "product_CODED": "SF",
@@ -1455,7 +1455,7 @@
  },
  {
    "id": 67,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Significance",
    "product_CODED": "SF",
@@ -1477,7 +1477,7 @@
  },
  {
    "id": 68,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Strategic",
    "product_CODED": "SF",
@@ -1499,7 +1499,7 @@
  },
  {
    "id": 69,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Theme Thursday - Woo",
    "product_CODED": "SF",
@@ -1521,7 +1521,7 @@
  },
  {
    "id": 70,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Achiever: Satisfaction from Trimming the Roses",
    "product_CODED": "SF",
@@ -1543,7 +1543,7 @@
  },
  {
    "id": 71,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Activator",
    "product_CODED": "SF",
@@ -1565,7 +1565,7 @@
  },
  {
    "id": 72,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Adaptability",
    "product_CODED": "SF",
@@ -1587,7 +1587,7 @@
  },
  {
    "id": 73,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Analytical",
    "product_CODED": "SF",
@@ -1609,7 +1609,7 @@
  },
  {
    "id": 74,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Arranger",
    "product_CODED": "SF",
@@ -1631,7 +1631,7 @@
  },
  {
    "id": 75,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Belief",
    "product_CODED": "SF",
@@ -1653,7 +1653,7 @@
  },
  {
    "id": 76,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Command",
    "product_CODED": "SF",
@@ -1675,7 +1675,7 @@
  },
  {
    "id": 77,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Communication",
    "product_CODED": "SF",
@@ -1697,7 +1697,7 @@
  },
  {
    "id": 78,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Competition",
    "product_CODED": "SF",
@@ -1719,7 +1719,7 @@
  },
  {
    "id": 79,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Connectedness",
    "product_CODED": "SF",
@@ -1741,7 +1741,7 @@
  },
  {
    "id": 80,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Consistency",
    "product_CODED": "SF",
@@ -1763,7 +1763,7 @@
  },
  {
    "id": 81,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Context",
    "product_CODED": "SF",
@@ -1785,7 +1785,7 @@
  },
  {
    "id": 82,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Deliberative",
    "product_CODED": "SF",
@@ -1807,7 +1807,7 @@
  },
  {
    "id": 83,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Developer",
    "product_CODED": "SF",
@@ -1829,7 +1829,7 @@
  },
  {
    "id": 84,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Discipline",
    "product_CODED": "SF",
@@ -1851,7 +1851,7 @@
  },
  {
    "id": 85,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Empathy",
    "product_CODED": "SF",
@@ -1873,7 +1873,7 @@
  },
  {
    "id": 86,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Focus: A Laser Beam to What Matters",
    "product_CODED": "SF",
@@ -1895,7 +1895,7 @@
  },
  {
    "id": 87,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Futuristic",
    "product_CODED": "SF",
@@ -1917,7 +1917,7 @@
  },
  {
    "id": 88,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Harmony",
    "product_CODED": "SF",
@@ -1939,7 +1939,7 @@
  },
  {
    "id": 89,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Ideation",
    "product_CODED": "SF",
@@ -1961,7 +1961,7 @@
  },
  {
    "id": 90,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Includer",
    "product_CODED": "SF",
@@ -1983,7 +1983,7 @@
  },
  {
    "id": 91,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Individualization",
    "product_CODED": "SF",
@@ -2005,7 +2005,7 @@
  },
  {
    "id": 92,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Input",
    "product_CODED": "SF",
@@ -2027,7 +2027,7 @@
  },
  {
    "id": 93,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Intellection",
    "product_CODED": "SF",
@@ -2049,7 +2049,7 @@
  },
  {
    "id": 94,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Learner: Mastering New Subjects and Continuously Improving",
    "product_CODED": "SF",
@@ -2071,7 +2071,7 @@
  },
  {
    "id": 95,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Maximizer",
    "product_CODED": "SF",
@@ -2093,7 +2093,7 @@
  },
  {
    "id": 96,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Positivity",
    "product_CODED": "SF",
@@ -2115,7 +2115,7 @@
  },
  {
    "id": 97,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Relator",
    "product_CODED": "SF",
@@ -2137,7 +2137,7 @@
  },
  {
    "id": 98,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Responsibility",
    "product_CODED": "SF",
@@ -2159,7 +2159,7 @@
  },
  {
    "id": 99,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Restorative",
    "product_CODED": "SF",
@@ -2181,7 +2181,7 @@
  },
  {
    "id": 100,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Self-Assurance",
    "product_CODED": "SF",
@@ -2203,7 +2203,7 @@
  },
  {
    "id": 101,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Significance",
    "product_CODED": "SF",
@@ -2225,7 +2225,7 @@
  },
  {
    "id": 102,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Strategic",
    "product_CODED": "SF",
@@ -2247,7 +2247,7 @@
  },
  {
    "id": 103,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Season 2 Gallup's Theme Thursday - Woo",
    "product_CODED": "SF",
@@ -2269,7 +2269,7 @@
  },
  {
    "id": 104,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching All",
@@ -2291,7 +2291,7 @@
  },
  {
    "id": 105,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2313,7 +2313,7 @@
  },
  {
    "id": 106,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Individual Coaching",
@@ -2335,7 +2335,7 @@
  },
  {
    "id": 107,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2357,7 +2357,7 @@
  },
  {
    "id": 108,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2379,7 +2379,7 @@
  },
  {
    "id": 109,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2401,7 +2401,7 @@
  },
  {
    "id": 110,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2423,7 +2423,7 @@
  },
  {
    "id": 111,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2445,7 +2445,7 @@
  },
  {
    "id": 112,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "All Coaching",
@@ -2467,7 +2467,7 @@
  },
  {
    "id": 113,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Individual Coaching",
@@ -2489,7 +2489,7 @@
  },
  {
    "id": 114,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2511,7 +2511,7 @@
  },
  {
    "id": 115,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2533,7 +2533,7 @@
  },
  {
    "id": 116,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching, EP10",
@@ -2555,7 +2555,7 @@
  },
  {
    "id": 117,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2577,7 +2577,7 @@
  },
  {
    "id": 118,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2599,7 +2599,7 @@
  },
  {
    "id": 119,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "All Coaching",
@@ -2621,7 +2621,7 @@
  },
  {
    "id": 120,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Individual Coaching",
@@ -2643,7 +2643,7 @@
  },
  {
    "id": 121,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2665,7 +2665,7 @@
  },
  {
    "id": 122,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching, EP10, SQ",
@@ -2687,7 +2687,7 @@
  },
  {
    "id": 123,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2709,7 +2709,7 @@
  },
  {
    "id": 124,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2731,7 +2731,7 @@
  },
  {
    "id": 125,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2753,7 +2753,7 @@
  },
  {
    "id": 126,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2775,7 +2775,7 @@
  },
  {
    "id": 127,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching, EP10",
@@ -2797,7 +2797,7 @@
  },
  {
    "id": 128,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2819,7 +2819,7 @@
  },
  {
    "id": 129,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching, Q12",
@@ -2841,7 +2841,7 @@
  },
  {
    "id": 130,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2863,7 +2863,7 @@
  },
  {
    "id": 131,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2885,7 +2885,7 @@
  },
  {
    "id": 132,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2907,7 +2907,7 @@
  },
  {
    "id": 133,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2929,7 +2929,7 @@
  },
  {
    "id": 134,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2951,7 +2951,7 @@
  },
  {
    "id": 135,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2973,7 +2973,7 @@
  },
  {
    "id": 136,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -2995,7 +2995,7 @@
  },
  {
    "id": 137,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3017,7 +3017,7 @@
  },
  {
    "id": 138,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3039,7 +3039,7 @@
  },
  {
    "id": 139,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3061,7 +3061,7 @@
  },
  {
    "id": 140,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3083,7 +3083,7 @@
  },
  {
    "id": 141,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching, StrengthsQuest",
@@ -3105,7 +3105,7 @@
  },
  {
    "id": 142,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3127,7 +3127,7 @@
  },
  {
    "id": 143,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3149,7 +3149,7 @@
  },
  {
    "id": 144,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3171,7 +3171,7 @@
  },
  {
    "id": 145,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3193,7 +3193,7 @@
  },
  {
    "id": 146,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3215,7 +3215,7 @@
  },
  {
    "id": 147,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3237,7 +3237,7 @@
  },
  {
    "id": 148,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3259,7 +3259,7 @@
  },
  {
    "id": 149,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3281,7 +3281,7 @@
  },
  {
    "id": 150,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3303,7 +3303,7 @@
  },
  {
    "id": 151,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3325,7 +3325,7 @@
  },
  {
    "id": 152,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3347,7 +3347,7 @@
  },
  {
    "id": 153,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3369,7 +3369,7 @@
  },
  {
    "id": 154,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3391,7 +3391,7 @@
  },
  {
    "id": 155,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3413,7 +3413,7 @@
  },
  {
    "id": 156,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3435,7 +3435,7 @@
  },
  {
    "id": 157,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3457,7 +3457,7 @@
  },
  {
    "id": 158,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3479,7 +3479,7 @@
  },
  {
    "id": 159,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3501,7 +3501,7 @@
  },
  {
    "id": 160,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3523,7 +3523,7 @@
  },
  {
    "id": 161,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3545,7 +3545,7 @@
  },
  {
    "id": 162,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3567,7 +3567,7 @@
  },
  {
    "id": 163,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3589,7 +3589,7 @@
  },
  {
    "id": 164,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3611,7 +3611,7 @@
  },
  {
    "id": 165,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3633,7 +3633,7 @@
  },
  {
    "id": 166,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3655,7 +3655,7 @@
  },
  {
    "id": 167,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3677,7 +3677,7 @@
  },
  {
    "id": 168,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3699,7 +3699,7 @@
  },
  {
    "id": 169,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3721,7 +3721,7 @@
  },
  {
    "id": 170,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3743,7 +3743,7 @@
  },
  {
    "id": 171,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3765,7 +3765,7 @@
  },
  {
    "id": 172,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3787,7 +3787,7 @@
  },
  {
    "id": 173,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3809,7 +3809,7 @@
  },
  {
    "id": 174,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3831,7 +3831,7 @@
  },
  {
    "id": 175,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3853,7 +3853,7 @@
  },
  {
    "id": 176,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3875,7 +3875,7 @@
  },
  {
    "id": 177,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3897,7 +3897,7 @@
  },
  {
    "id": 178,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3919,7 +3919,7 @@
  },
  {
    "id": 179,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3941,7 +3941,7 @@
  },
  {
    "id": 180,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3963,7 +3963,7 @@
  },
  {
    "id": 181,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -3985,7 +3985,7 @@
  },
  {
    "id": 182,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4007,7 +4007,7 @@
  },
  {
    "id": 183,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4029,7 +4029,7 @@
  },
  {
    "id": 184,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4051,7 +4051,7 @@
  },
  {
    "id": 185,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4073,7 +4073,7 @@
  },
  {
    "id": 186,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4095,7 +4095,7 @@
  },
  {
    "id": 187,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4117,7 +4117,7 @@
  },
  {
    "id": 188,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4139,7 +4139,7 @@
  },
  {
    "id": 189,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4161,7 +4161,7 @@
  },
  {
    "id": 190,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4183,7 +4183,7 @@
  },
  {
    "id": 191,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4205,7 +4205,7 @@
  },
  {
    "id": 192,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4227,7 +4227,7 @@
  },
  {
    "id": 193,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4249,7 +4249,7 @@
  },
  {
    "id": 194,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4271,7 +4271,7 @@
  },
  {
    "id": 195,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4293,7 +4293,7 @@
  },
  {
    "id": 196,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4315,7 +4315,7 @@
  },
  {
    "id": 197,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4337,7 +4337,7 @@
  },
  {
    "id": 198,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4359,7 +4359,7 @@
  },
  {
    "id": 199,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4381,7 +4381,7 @@
  },
  {
    "id": 200,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4403,7 +4403,7 @@
  },
  {
    "id": 201,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4425,7 +4425,7 @@
  },
  {
    "id": 202,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4447,7 +4447,7 @@
  },
  {
    "id": 203,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4469,7 +4469,7 @@
  },
  {
    "id": 204,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4491,7 +4491,7 @@
  },
  {
    "id": 205,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4513,7 +4513,7 @@
  },
  {
    "id": 206,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4535,7 +4535,7 @@
  },
  {
    "id": 207,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4557,7 +4557,7 @@
  },
  {
    "id": 208,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4579,7 +4579,7 @@
  },
  {
    "id": 209,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4601,7 +4601,7 @@
  },
  {
    "id": 210,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4623,7 +4623,7 @@
  },
  {
    "id": 211,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4645,7 +4645,7 @@
  },
  {
    "id": 212,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4667,7 +4667,7 @@
  },
  {
    "id": 213,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4689,7 +4689,7 @@
  },
  {
    "id": 214,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4711,7 +4711,7 @@
  },
  {
    "id": 215,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4733,7 +4733,7 @@
  },
  {
    "id": 216,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4755,7 +4755,7 @@
  },
  {
    "id": 217,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4777,7 +4777,7 @@
  },
  {
    "id": 218,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4799,7 +4799,7 @@
  },
  {
    "id": 219,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4821,7 +4821,7 @@
  },
  {
    "id": 220,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4843,7 +4843,7 @@
  },
  {
    "id": 221,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4865,7 +4865,7 @@
  },
  {
    "id": 222,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4887,7 +4887,7 @@
  },
  {
    "id": 223,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4909,7 +4909,7 @@
  },
  {
    "id": 224,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4931,7 +4931,7 @@
  },
  {
    "id": 225,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4953,7 +4953,7 @@
  },
  {
    "id": 226,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4975,7 +4975,7 @@
  },
  {
    "id": 227,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -4997,7 +4997,7 @@
  },
  {
    "id": 228,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5019,7 +5019,7 @@
  },
  {
    "id": 229,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5041,7 +5041,7 @@
  },
  {
    "id": 230,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5063,7 +5063,7 @@
  },
  {
    "id": 231,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5085,7 +5085,7 @@
  },
  {
    "id": 232,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5107,7 +5107,7 @@
  },
  {
    "id": 233,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5129,7 +5129,7 @@
  },
  {
    "id": 234,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5151,7 +5151,7 @@
  },
  {
    "id": 235,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5173,7 +5173,7 @@
  },
  {
    "id": 236,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5195,7 +5195,7 @@
  },
  {
    "id": 237,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5217,7 +5217,7 @@
  },
  {
    "id": 238,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5239,7 +5239,7 @@
  },
  {
    "id": 239,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5261,7 +5261,7 @@
  },
  {
    "id": 240,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5283,7 +5283,7 @@
  },
  {
    "id": 241,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5305,7 +5305,7 @@
  },
  {
    "id": 242,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5327,7 +5327,7 @@
  },
  {
    "id": 243,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5349,7 +5349,7 @@
  },
  {
    "id": 244,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -5371,7 +5371,7 @@
  },
  {
    "id": 245,
-   "source": "Blog, YT - GSC",
+   "source": ["Blog", "YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Strengths Spotlight",
    "product_CODED": "Coaching",
@@ -5393,7 +5393,7 @@
  },
  {
    "id": 246,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths Spotlight",
    "product_CODED": "SF",
@@ -5415,7 +5415,7 @@
  },
  {
    "id": 247,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "How to Unlock Students' Entrepreneurial Potential",
    "product_CODED": "Coaching, EP10, SQ",
@@ -5437,7 +5437,7 @@
  },
  {
    "id": 248,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Leaning In to WOO and Includer",
    "product_CODED": "Coaching",
@@ -5459,7 +5459,7 @@
  },
  {
    "id": 249,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "What Nonprofits Need to Know About Managing Millennials to Drive Performance and Achieve Their Organizational Missions",
    "product_CODED": "Coaching",
@@ -5481,7 +5481,7 @@
  },
  {
    "id": 250,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths and Veterans United",
    "product_CODED": "Coaching",
@@ -5503,7 +5503,7 @@
  },
  {
    "id": 251,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Building a Staircase: Coaching Clients Out of the Basement and Into the Balcony of Their Talents",
    "product_CODED": "Coaching",
@@ -5525,7 +5525,7 @@
  },
  {
    "id": 252,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "It's Time to Lay Performance Reviews to Rest",
    "product_CODED": "Coaching",
@@ -5547,7 +5547,7 @@
  },
  {
    "id": 253,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "To Innovate, Think Like an Entrepreneur",
    "product_CODED": "Coaching, EP10",
@@ -5569,7 +5569,7 @@
  },
  {
    "id": 254,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "What Does a Coach Really Do?",
    "product_CODED": "Coaching",
@@ -5591,7 +5591,7 @@
  },
  {
    "id": 255,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Resistance Is Futile: True Strength Resonates in All Directions",
    "product_CODED": "Coaching",
@@ -5613,7 +5613,7 @@
  },
  {
    "id": 256,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "When Strengths Coaching Gets Personal",
    "product_CODED": "Coaching",
@@ -5635,7 +5635,7 @@
  },
  {
    "id": 257,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Meet Your Strengths Coach",
    "product_CODED": "Coaching",
@@ -5657,7 +5657,7 @@
  },
  {
    "id": 258,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Succeeding as a Millennial Manager – Be Humble in Knowing Your Value",
    "product_CODED": "Coaching",
@@ -5679,7 +5679,7 @@
  },
  {
    "id": 259,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Onboarding Millennials -- Intentionality Today, Success Tomorrow",
    "product_CODED": "Coaching",
@@ -5701,7 +5701,7 @@
  },
  {
    "id": 260,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Three Questions Every Leader Should Be Asking",
    "product_CODED": "Coaching",
@@ -5723,7 +5723,7 @@
  },
  {
    "id": 261,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Planting Entrepreneurial Seeds at Cornell University",
    "product_CODED": "Coaching, SQ",
@@ -5745,7 +5745,7 @@
  },
  {
    "id": 262,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Growing Strengths Organically at the University of Colorado Boulder",
    "product_CODED": "Coaching, SQ",
@@ -5767,7 +5767,7 @@
  },
  {
    "id": 263,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Ten Tips for Managing Millennials -- Combining Inspiration and Empowerment",
    "product_CODED": "Coaching",
@@ -5789,7 +5789,7 @@
  },
  {
    "id": 264,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Igniting Your Character with Strengths",
    "product_CODED": "Coaching",
@@ -5811,7 +5811,7 @@
  },
  {
    "id": 265,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "How to Talk About Failure: What Weak Moments Teach Us About Strengths",
    "product_CODED": "Coaching",
@@ -5833,7 +5833,7 @@
  },
  {
    "id": 266,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Building Stability Through Strengths",
    "product_CODED": "Coaching",
@@ -5855,7 +5855,7 @@
  },
  {
    "id": 267,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Developing a Model for Strengths on Campus",
    "product_CODED": "Coaching, SQ",
@@ -5877,7 +5877,7 @@
  },
  {
    "id": 268,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Major Life Changes and Strengths",
    "product_CODED": "Coaching",
@@ -5899,7 +5899,7 @@
  },
  {
    "id": 269,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Why I Practice Strengths-Based Parenting",
    "product_CODED": "Coaching, SE",
@@ -5921,7 +5921,7 @@
  },
  {
    "id": 270,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Using Clifton StrengthsFinder to Create and Accomplish Resolutions",
    "product_CODED": "Coaching",
@@ -5943,7 +5943,7 @@
  },
  {
    "id": 271,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "StrengthsQuest: Coaching Others Starts with Knowing Yourself",
    "product_CODED": "Coaching, SE",
@@ -5965,7 +5965,7 @@
  },
  {
    "id": 272,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths Based Parenting: Know Your Children's Strengths",
    "product_CODED": "Coaching, SQ",
@@ -5987,7 +5987,7 @@
  },
  {
    "id": 273,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Building a Strengths-Based nonprofit Board: The Board Retreat",
    "product_CODED": "Coaching",
@@ -6009,7 +6009,7 @@
  },
  {
    "id": 274,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths as Superpowers",
    "product_CODED": "Coaching",
@@ -6031,7 +6031,7 @@
  },
  {
    "id": 275,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Building Compassion Through Strengths",
    "product_CODED": "Coaching",
@@ -6053,7 +6053,7 @@
  },
  {
    "id": 276,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths at Kansas State University",
    "product_CODED": "Coaching, SQ",
@@ -6075,7 +6075,7 @@
  },
  {
    "id": 277,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "StrengthsExplorer: Children's Weaknesses may be Undeveloped Strengths",
    "product_CODED": "Coaching, SQ",
@@ -6097,7 +6097,7 @@
  },
  {
    "id": 278,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths: Different Paths to the Same Destination",
    "product_CODED": "Coaching",
@@ -6119,7 +6119,7 @@
  },
  {
    "id": 279,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Celebrating and Developing the Strengths of 'The Greatest Lil' State on Earth'",
    "product_CODED": "Coaching",
@@ -6141,7 +6141,7 @@
  },
  {
    "id": 280,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Leaders Build Trust Through Strengths",
    "product_CODED": "Coaching",
@@ -6163,7 +6163,7 @@
  },
  {
    "id": 281,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Compare and Contrast: Strategic",
    "product_CODED": "Coaching",
@@ -6185,7 +6185,7 @@
  },
  {
    "id": 282,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The Four Things Followers Need – and How Leaders Can Use Their Strengths to Provide Them",
    "product_CODED": "Coaching",
@@ -6207,7 +6207,7 @@
  },
  {
    "id": 283,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Compare and Contrast: Deliberative",
    "product_CODED": "Coaching",
@@ -6229,7 +6229,7 @@
  },
  {
    "id": 284,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Flipping the Paradigm: When Strengths are Underappreciated",
    "product_CODED": "Coaching",
@@ -6251,7 +6251,7 @@
  },
  {
    "id": 285,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Three Secrets to Introducing Strengths to a New Audience Effectively",
    "product_CODED": "Coaching",
@@ -6273,7 +6273,7 @@
  },
  {
    "id": 286,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Learning to Walk: Activate Your Talent",
    "product_CODED": "Coaching",
@@ -6295,7 +6295,7 @@
  },
  {
    "id": 287,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Balconies and Basements: Perception is Reality",
    "product_CODED": "Coaching",
@@ -6317,7 +6317,7 @@
  },
  {
    "id": 288,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Compare and Contrast: Input",
    "product_CODED": "Coaching",
@@ -6339,7 +6339,7 @@
  },
  {
    "id": 289,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "How to Write a Great Blog Post",
    "product_CODED": "Coaching",
@@ -6361,7 +6361,7 @@
  },
  {
    "id": 290,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "StrengthsFinder and EP10: A Tale of Two Startups",
    "product_CODED": "Coaching, EP10",
@@ -6383,7 +6383,7 @@
  },
  {
    "id": 291,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Can I Use StrengthsFinder to Make Hiring Decisions?",
    "product_CODED": "Coaching",
@@ -6405,7 +6405,7 @@
  },
  {
    "id": 292,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "True Humility: Embrace who you are. Release who you are not.",
    "product_CODED": "Coaching",
@@ -6427,7 +6427,7 @@
  },
  {
    "id": 293,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Learn, Love, Live: The Journey of Strengths",
    "product_CODED": "Coaching",
@@ -6449,7 +6449,7 @@
  },
  {
    "id": 294,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Five Practices of Great Strengths Coaching",
    "product_CODED": "Coaching",
@@ -6471,7 +6471,7 @@
  },
  {
    "id": 295,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Five Lessons From a Strengths Network Startup",
    "product_CODED": "Coaching",
@@ -6493,7 +6493,7 @@
  },
  {
    "id": 296,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The Best Teachers Have Something in Common: What I learned About Strengths From Being Myself",
    "product_CODED": "Coaching",
@@ -6515,7 +6515,7 @@
  },
  {
    "id": 297,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The One Question That Changed My Life",
    "product_CODED": "Coaching",
@@ -6537,7 +6537,7 @@
  },
  {
    "id": 298,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Gallup Courses Approved by ICF and HRCI",
    "product_CODED": "Coaching",
@@ -6559,7 +6559,7 @@
  },
  {
    "id": 299,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Leveraging Strengths in Performance Review Conversations",
    "product_CODED": "Coaching",
@@ -6581,7 +6581,7 @@
  },
  {
    "id": 300,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Empowering Strengths to Transform School Culture",
    "product_CODED": "Coaching, SQ",
@@ -6603,7 +6603,7 @@
  },
  {
    "id": 301,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "High-Impact Coaching by Design",
    "product_CODED": "Coaching",
@@ -6625,7 +6625,7 @@
  },
  {
    "id": 302,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "How One Accelerator Turns to Talent to Foster Entrepreneurial Success",
    "product_CODED": "Coaching, EP10",
@@ -6647,7 +6647,7 @@
  },
  {
    "id": 303,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Can a Strength Ever Be a Problem?",
    "product_CODED": "Coaching",
@@ -6669,7 +6669,7 @@
  },
  {
    "id": 304,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "When I Grow Up, I Want to Be a….Manager?!",
    "product_CODED": "Coaching",
@@ -6691,7 +6691,7 @@
  },
  {
    "id": 305,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Coaching a Manager vs. an Individual Contributor",
    "product_CODED": "Coaching",
@@ -6713,7 +6713,7 @@
  },
  {
    "id": 306,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Compatibility",
    "product_CODED": "Coaching",
@@ -6735,7 +6735,7 @@
  },
  {
    "id": 307,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Earning Trust in the First Five Minutes: A Formula for Impact",
    "product_CODED": "Coaching",
@@ -6757,7 +6757,7 @@
  },
  {
    "id": 308,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Three Questions Every Leader Should Be Asking",
    "product_CODED": "Coaching",
@@ -6779,7 +6779,7 @@
  },
  {
    "id": 309,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "What About Weakness?",
    "product_CODED": "Coaching",
@@ -6801,7 +6801,7 @@
  },
  {
    "id": 310,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The Surprising Benefits of Creating Coaching Partnerships",
    "product_CODED": "Coaching",
@@ -6823,7 +6823,7 @@
  },
  {
    "id": 311,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Agenda-Free Coaching",
    "product_CODED": "Coaching",
@@ -6845,7 +6845,7 @@
  },
  {
    "id": 312,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Inc.: Inside the Mind of the Entrepreneur",
    "product_CODED": "EP10",
@@ -6867,7 +6867,7 @@
  },
  {
    "id": 313,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "[Recap] EP10 Quarterly Update",
    "product_CODED": "EP10",
@@ -6889,7 +6889,7 @@
  },
  {
    "id": 314,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Gallup Courses Approved by ICF and HRCI",
    "product_CODED": "Coaching",
@@ -6911,7 +6911,7 @@
  },
  {
    "id": 315,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Varsity Management: A Formula for Maximizing Potential in People",
    "product_CODED": "Coaching",
@@ -6933,7 +6933,7 @@
  },
  {
    "id": 316,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Identify, Partner, and Develop to Create Campus Well-Being",
    "product_CODED": "Coaching",
@@ -6955,7 +6955,7 @@
  },
  {
    "id": 317,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths Coaching -- What’s in it For Me?",
    "product_CODED": "Coaching",
@@ -6977,7 +6977,7 @@
  },
  {
    "id": 318,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Debunking the Myth of Well-Roundedness",
    "product_CODED": "Coaching, ",
@@ -6999,7 +6999,7 @@
  },
  {
    "id": 319,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The How",
    "product_CODED": "Coaching",
@@ -7021,7 +7021,7 @@
  },
  {
    "id": 320,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Using Your Talents to Balance Work and Home",
    "product_CODED": "Coaching",
@@ -7043,7 +7043,7 @@
  },
  {
    "id": 321,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Bounce Back! Coaching Resilience Through Strengths",
    "product_CODED": "Coaching",
@@ -7065,7 +7065,7 @@
  },
  {
    "id": 322,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "About My “Journey to the Moon”… I Decided to Take the Train!",
    "product_CODED": "Coaching",
@@ -7087,7 +7087,7 @@
  },
  {
    "id": 323,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Replicating Success: How to Learn What You Already Know",
    "product_CODED": "Coaching",
@@ -7109,7 +7109,7 @@
  },
  {
    "id": 324,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "“I’m Your Coach, Not Your Friend.”",
    "product_CODED": "Coaching",
@@ -7131,7 +7131,7 @@
  },
  {
    "id": 325,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths Meetup in Sacramento!",
    "product_CODED": "SF",
@@ -7153,7 +7153,7 @@
  },
  {
    "id": 326,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths Meetup in Indianapolis!",
    "product_CODED": "SF",
@@ -7175,7 +7175,7 @@
  },
  {
    "id": 327,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The Dreaded Report Card",
    "product_CODED": "Coaching",
@@ -7197,7 +7197,7 @@
  },
  {
    "id": 328,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Pioneering Strengths in Asia",
    "product_CODED": "Coaching",
@@ -7219,7 +7219,7 @@
  },
  {
    "id": 329,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Three Questions Every Leader Should Be Asking",
    "product_CODED": "Coaching",
@@ -7241,7 +7241,7 @@
  },
  {
    "id": 330,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Dropout or Honor Student: The Difference Is Strengths",
    "product_CODED": "Coaching, SQ",
@@ -7263,7 +7263,7 @@
  },
  {
    "id": 331,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The Surprising Statistic about Most Church-Goers",
    "product_CODED": "Coaching",
@@ -7285,7 +7285,7 @@
  },
  {
    "id": 332,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Five-Step Prescription to Leading With Your Strengths in 2014",
    "product_CODED": "Coaching",
@@ -7307,7 +7307,7 @@
  },
  {
    "id": 333,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Embrace Your Dark Side: How I Learned to Let Go of Who I Am Not",
    "product_CODED": "Coaching",
@@ -7329,7 +7329,7 @@
  },
  {
    "id": 334,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "And the Winner Is...the Test",
    "product_CODED": "Coaching",
@@ -7351,7 +7351,7 @@
  },
  {
    "id": 335,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "I’m a Health Professional, Not an Entrepreneur -- How Can Strengths Help Me?",
    "product_CODED": "Coaching",
@@ -7373,7 +7373,7 @@
  },
  {
    "id": 336,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Think Big, Act Small",
    "product_CODED": "Coaching",
@@ -7395,7 +7395,7 @@
  },
  {
    "id": 337,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The Purpose of Life and Playing to Your Strengths",
    "product_CODED": "Coaching",
@@ -7417,7 +7417,7 @@
  },
  {
    "id": 338,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Putting a Man on the Moon: Confessions of a Beginning Strengths Coach",
    "product_CODED": "Coaching",
@@ -7439,7 +7439,7 @@
  },
  {
    "id": 339,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Having the Time of Your Life -- Every Day",
    "product_CODED": "Coaching, SQ",
@@ -7461,7 +7461,7 @@
  },
  {
    "id": 340,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Building a Strengths-Based Campus",
    "product_CODED": "Coaching, SQ",
@@ -7483,7 +7483,7 @@
  },
  {
    "id": 341,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "A Complementary Partnership Found in Nature: The Pistol Shrimp and Goby Fish",
    "product_CODED": "Coaching",
@@ -7505,7 +7505,7 @@
  },
  {
    "id": 342,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "”But What I Really Want to Do Is Direct!”",
    "product_CODED": "Coaching",
@@ -7527,7 +7527,7 @@
  },
  {
    "id": 343,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Why Being One in a Million Really Isn’t That Special",
    "product_CODED": "SF",
@@ -7549,7 +7549,7 @@
  },
  {
    "id": 344,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "There Are No Dream Themes",
    "product_CODED": "Coaching",
@@ -7571,7 +7571,7 @@
  },
  {
    "id": 345,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Mixed Feelings About One of Your Themes?",
    "product_CODED": "SF",
@@ -7593,7 +7593,7 @@
  },
  {
    "id": 346,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "How to PLUG Your LEAKS",
    "product_CODED": "Coaching",
@@ -7615,7 +7615,7 @@
  },
  {
    "id": 347,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The Opportunity Most Candidates Miss During Job Interviews",
    "product_CODED": "Coaching",
@@ -7637,7 +7637,7 @@
  },
  {
    "id": 348,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths, Spinach, and Kryptonite",
    "product_CODED": "Coaching",
@@ -7659,7 +7659,7 @@
  },
  {
    "id": 349,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "For First Time, Gallup Brings Strengths Coaching Certification to Washington, D.C.",
    "product_CODED": "Coaching",
@@ -7681,7 +7681,7 @@
  },
  {
    "id": 350,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "What the K-State Student Body Election Can Teach U.S. Politicians",
    "product_CODED": "SF, SQ",
@@ -7703,7 +7703,7 @@
  },
  {
    "id": 351,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Ready, Fire, Aim: The Reformation of an Activator",
    "product_CODED": "Coaching",
@@ -7725,7 +7725,7 @@
  },
  {
    "id": 352,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Cruising With Strengths",
    "product_CODED": "SF",
@@ -7747,7 +7747,7 @@
  },
  {
    "id": 353,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Strengths Help You Pick Your Goals",
    "product_CODED": "Coaching",
@@ -7769,7 +7769,7 @@
  },
  {
    "id": 354,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Fairy Tales and Strengths",
    "product_CODED": "SF",
@@ -7791,7 +7791,7 @@
  },
  {
    "id": 355,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Confronting Biases As Coaches",
    "product_CODED": "Coaching",
@@ -7813,7 +7813,7 @@
  },
  {
    "id": 356,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Becoming Fluent in the Strengths Language",
    "product_CODED": "SF",
@@ -7835,7 +7835,7 @@
  },
  {
    "id": 357,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "There Is a Connection Between Strengths and Wellbeing",
    "product_CODED": "Coaching",
@@ -7857,7 +7857,7 @@
  },
  {
    "id": 358,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "How to Embed Strengths Deep in Your Organization's DNA",
    "product_CODED": "Coaching",
@@ -7879,7 +7879,7 @@
  },
  {
    "id": 359,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Make It Quick; Make It Stick -- Strengths in 30 Seconds",
    "product_CODED": "SF",
@@ -7901,7 +7901,7 @@
  },
  {
    "id": 360,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Accidental vs. Intentional",
    "product_CODED": "Coaching",
@@ -7923,7 +7923,7 @@
  },
  {
    "id": 361,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "We Can’t Just Ignore Our Weaknesses, We Have to Deal With Them",
    "product_CODED": "Coaching",
@@ -7945,7 +7945,7 @@
  },
  {
    "id": 362,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "What Is a Strengths-Based Team?",
    "product_CODED": "Coaching",
@@ -7967,7 +7967,7 @@
  },
  {
    "id": 363,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "The Journey From ‘Ahhh’ to ‘Aha’! What’s Next Upon Discovering Your Strengths?",
    "product_CODED": "SF",
@@ -7989,7 +7989,7 @@
  },
  {
    "id": 364,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Bringing Strengths to the World -- in the Right Way",
    "product_CODED": "SF",
@@ -8011,7 +8011,7 @@
  },
  {
    "id": 365,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Being and Doing: The Busy Intersection of Strengths Coaching",
    "product_CODED": "Coaching",
@@ -8033,7 +8033,7 @@
  },
  {
    "id": 366,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Five Clues to Talent: A Guide to Real-Life Strengths Conversations",
    "product_CODED": "Coaching",
@@ -8055,7 +8055,7 @@
  },
  {
    "id": 367,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "Oh…I’m a Woo!",
    "product_CODED": "Coaching",
@@ -8077,7 +8077,7 @@
  },
  {
    "id": 368,
-   "source": "Blog",
+   "source": ["Blog"],
    "category": "Social",
    "title": "StrengthsExplorer Now Available on Naviance by Hobsons",
    "product_CODED": "SE",
@@ -8099,7 +8099,7 @@
  },
  {
    "id": 369,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8121,7 +8121,7 @@
  },
  {
    "id": 370,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8143,7 +8143,7 @@
  },
  {
    "id": 371,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8165,7 +8165,7 @@
  },
  {
    "id": 372,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8187,7 +8187,7 @@
  },
  {
    "id": 373,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8209,7 +8209,7 @@
  },
  {
    "id": 374,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8231,7 +8231,7 @@
  },
  {
    "id": 375,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8253,7 +8253,7 @@
  },
  {
    "id": 376,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8275,7 +8275,7 @@
  },
  {
    "id": 377,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8297,7 +8297,7 @@
  },
  {
    "id": 378,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8319,7 +8319,7 @@
  },
  {
    "id": 379,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8341,7 +8341,7 @@
  },
  {
    "id": 380,
-   "source": "Blog, YT- EEC",
+   "source": ["Blog", "YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "The Great Manager",
    "product_CODED": "Coaching",
@@ -8363,7 +8363,7 @@
  },
  {
    "id": 381,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8385,7 +8385,7 @@
  },
  {
    "id": 382,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8407,7 +8407,7 @@
  },
  {
    "id": 383,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8429,7 +8429,7 @@
  },
  {
    "id": 384,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8451,7 +8451,7 @@
  },
  {
    "id": 385,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8473,7 +8473,7 @@
  },
  {
    "id": 386,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8495,7 +8495,7 @@
  },
  {
    "id": 387,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8517,7 +8517,7 @@
  },
  {
    "id": 388,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8539,7 +8539,7 @@
  },
  {
    "id": 389,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8561,7 +8561,7 @@
  },
  {
    "id": 390,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8583,7 +8583,7 @@
  },
  {
    "id": 391,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8605,7 +8605,7 @@
  },
  {
    "id": 392,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8627,7 +8627,7 @@
  },
  {
    "id": 393,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8649,7 +8649,7 @@
  },
  {
    "id": 394,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8671,7 +8671,7 @@
  },
  {
    "id": 395,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8693,7 +8693,7 @@
  },
  {
    "id": 396,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8715,7 +8715,7 @@
  },
  {
    "id": 397,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8737,7 +8737,7 @@
  },
  {
    "id": 398,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8759,7 +8759,7 @@
  },
  {
    "id": 399,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8781,7 +8781,7 @@
  },
  {
    "id": 400,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8803,7 +8803,7 @@
  },
  {
    "id": 401,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8825,7 +8825,7 @@
  },
  {
    "id": 402,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8847,7 +8847,7 @@
  },
  {
    "id": 403,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8869,7 +8869,7 @@
  },
  {
    "id": 404,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8891,7 +8891,7 @@
  },
  {
    "id": 405,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8913,7 +8913,7 @@
  },
  {
    "id": 406,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8935,7 +8935,7 @@
  },
  {
    "id": 407,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8957,7 +8957,7 @@
  },
  {
    "id": 408,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -8979,7 +8979,7 @@
  },
  {
    "id": 409,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -9001,7 +9001,7 @@
  },
  {
    "id": 410,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -9023,7 +9023,7 @@
  },
  {
    "id": 411,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -9045,7 +9045,7 @@
  },
  {
    "id": 412,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -9067,7 +9067,7 @@
  },
  {
    "id": 413,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -9089,7 +9089,7 @@
  },
  {
    "id": 414,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -9111,7 +9111,7 @@
  },
  {
    "id": 415,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup Theme Thursday Short",
    "product_CODED": "SF",
@@ -9133,7 +9133,7 @@
  },
  {
    "id": 416,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "El llamado del Coach Gallup - Liz Ramos",
    "product_CODED": "SF",
@@ -9155,7 +9155,7 @@
  },
  {
    "id": 417,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "El llamado del Coach en Fortalezas Gallup - Jo Self",
    "product_CODED": "SF",
@@ -9177,7 +9177,7 @@
  },
  {
    "id": 418,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "El llamado del Coach Gallup Fernando Amador",
    "product_CODED": "SF",
@@ -9199,7 +9199,7 @@
  },
  {
    "id": 419,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "El llamado del Coach Gallup - Ana Lucia Escobar",
    "product_CODED": "SF",
@@ -9221,7 +9221,7 @@
  },
  {
    "id": 420,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -9243,7 +9243,7 @@
  },
 {
    "id": 421,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -9265,7 +9265,7 @@
  },
  {
    "id": 422,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -9287,7 +9287,7 @@
  },
  {
    "id": 423,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -9309,7 +9309,7 @@
  },
  {
    "id": 424,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -9331,7 +9331,7 @@
  },
  {
    "id": 425,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -9353,7 +9353,7 @@
  },
  {
    "id": 426,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -9375,7 +9375,7 @@
  },
  {
    "id": 427,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Called to Coach",
    "product_CODED": "Coaching",
@@ -9397,7 +9397,7 @@
  },
  {
    "id": 428,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Creating an Engaging Workplace",
    "product_CODED": "SF",
@@ -9419,7 +9419,7 @@
  },
  {
    "id": 429,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q12: This last year, I have had opportunities to learn and grow.",
    "product_CODED": "Q12",
@@ -9441,7 +9441,7 @@
  },
  {
    "id": 430,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q11: In the last six months, someone has talked about my progress.",
    "product_CODED": "Q12",
@@ -9463,7 +9463,7 @@
  },
  {
    "id": 431,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q10: I have a best friend at work.",
    "product_CODED": "Q12",
@@ -9485,7 +9485,7 @@
  },
  {
    "id": 432,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q09: My associates are committed to doing quality work.",
    "product_CODED": "Q12",
@@ -9507,7 +9507,7 @@
  },
  {
    "id": 433,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q08: The mission or purpose of my company...",
    "product_CODED": "Q12",
@@ -9529,7 +9529,7 @@
  },
  {
    "id": 434,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q07: At work, my opinions seem to count.",
    "product_CODED": "Q12",
@@ -9551,7 +9551,7 @@
  },
  {
    "id": 435,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q06: There is someone at work who encourages my development.",
    "product_CODED": "Q12",
@@ -9573,7 +9573,7 @@
  },
  {
    "id": 436,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q05: My supervisor, or someone at work, cares about me as a person.",
    "product_CODED": "Q12",
@@ -9595,7 +9595,7 @@
  },
  {
    "id": 437,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q04: In last seven days, I have received recognition or praise",
    "product_CODED": "Q12",
@@ -9617,7 +9617,7 @@
  },
  {
    "id": 438,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q03: At work, I have the opportunity to do what I do best every day.",
    "product_CODED": "Q12",
@@ -9639,7 +9639,7 @@
  },
  {
    "id": 439,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q02: I have the materials and equipment I need to do my work right.",
    "product_CODED": "Q12",
@@ -9661,7 +9661,7 @@
  },
  {
    "id": 440,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Inside Gallup’s Q12 Survey – Q01: I know what is expected of me at work.",
    "product_CODED": "Q12",
@@ -9683,7 +9683,7 @@
  },
  {
    "id": 441,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "Product Tour: Gallup’s Managing for Engagement Kit",
    "product_CODED": "Q12",
@@ -9705,7 +9705,7 @@
  },
  {
    "id": 442,
-   "source": "YT- EEC",
+   "source": ["YouTube: Employee Engagement Center"],
    "category": "Social",
    "title": "What Makes Gallup’s Q12 Survey the Best Way to Measure Employee Engagement?",
    "product_CODED": "Q12",
@@ -9727,7 +9727,7 @@
  },
  {
    "id": 443,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Achiever - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9749,7 +9749,7 @@
  },
  {
    "id": 444,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Activator - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9771,7 +9771,7 @@
  },
  {
    "id": 445,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Adaptability - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9793,7 +9793,7 @@
  },
  {
    "id": 446,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Analytical - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9815,7 +9815,7 @@
  },
  {
    "id": 447,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Arranger - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9837,7 +9837,7 @@
  },
  {
    "id": 448,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Belief - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9859,7 +9859,7 @@
  },
  {
    "id": 449,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Command - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9881,7 +9881,7 @@
  },
  {
    "id": 450,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Communication - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9903,7 +9903,7 @@
  },
  {
    "id": 451,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Competition - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9925,7 +9925,7 @@
  },
  {
    "id": 452,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Connectedness - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9947,7 +9947,7 @@
  },
  {
    "id": 453,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Consistency - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9969,7 +9969,7 @@
  },
  {
    "id": 454,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Context - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -9991,7 +9991,7 @@
  },
  {
    "id": 455,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Deliberative - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10013,7 +10013,7 @@
  },
  {
    "id": 456,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Developer - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10035,7 +10035,7 @@
  },
  {
    "id": 457,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Discipline - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10057,7 +10057,7 @@
  },
  {
    "id": 458,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Empathy - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10079,7 +10079,7 @@
  },
  {
    "id": 459,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Focus - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10101,7 +10101,7 @@
  },
  {
    "id": 460,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Futuristic - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10123,7 +10123,7 @@
  },
  {
    "id": 461,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Harmony - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10145,7 +10145,7 @@
  },
  {
    "id": 462,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Ideation - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10167,7 +10167,7 @@
  },
  {
    "id": 463,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Includer - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10189,7 +10189,7 @@
  },
  {
    "id": 464,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Individualization - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10211,7 +10211,7 @@
  },
  {
    "id": 465,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Input - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10233,7 +10233,7 @@
  },
  {
    "id": 466,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Intellection - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10255,7 +10255,7 @@
  },
  {
    "id": 467,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Learner - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10277,7 +10277,7 @@
  },
  {
    "id": 468,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Maximizer - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10299,7 +10299,7 @@
  },
  {
    "id": 469,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Positivity - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10321,7 +10321,7 @@
  },
  {
    "id": 470,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Relator - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10343,7 +10343,7 @@
  },
  {
    "id": 471,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Responsibility - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10365,7 +10365,7 @@
  },
  {
    "id": 472,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Restorative - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10387,7 +10387,7 @@
  },
  {
    "id": 473,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Self-Assurance - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10409,7 +10409,7 @@
  },
  {
    "id": 474,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Significance - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10431,7 +10431,7 @@
  },
  {
    "id": 475,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Strategic - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10453,7 +10453,7 @@
  },
  {
    "id": 476,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Woo - Learn more about your innate talents from Gallup's Clifton StrengthsFinder!",
    "product_CODED": "SF",
@@ -10475,7 +10475,7 @@
  },
  {
    "id": 477,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Your Full 34 Report Navigating Your Strengths Journey",
    "product_CODED": "SF",
@@ -10497,7 +10497,7 @@
  },
  {
    "id": 478,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Your Full 34 Report a Roadmap",
    "product_CODED": "SF",
@@ -10519,7 +10519,7 @@
  },
  {
    "id": 479,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "How to Read Your All 34",
    "product_CODED": "SF",
@@ -10541,7 +10541,7 @@
  },
  {
    "id": 480,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Your Greatest Talents",
    "product_CODED": "SF",
@@ -10563,7 +10563,7 @@
  },
  {
    "id": 481,
-   "source": "GSC, YT - GSC",
+   "source": ["Gallup Strengths Center", "YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "Unlock Your Potential",
    "product_CODED": "SF",
@@ -10585,7 +10585,7 @@
  },
  {
    "id": 482,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "StrengthsFinder: How To Share Your Clifton StrengthsFinder Results",
    "product_CODED": "SF",
@@ -10607,7 +10607,7 @@
  },
  {
    "id": 483,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "StrengthsFinder: How To Manage and Distribute Purchased Access Codes",
    "product_CODED": "SF",
@@ -10629,7 +10629,7 @@
  },
  {
    "id": 484,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "StrengthsFinder: How to Make a Purchase",
    "product_CODED": "SF",
@@ -10651,7 +10651,7 @@
  },
  {
    "id": 485,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "SF Insight videos, Social",
    "title": "StrengthsFinder: How To Use an Access Code To Take an Assessment",
    "product_CODED": "SF",
@@ -10673,7 +10673,7 @@
  },
  {
    "id": 486,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Tim O. Peterson, Ph.D. - Gallup EP10 Assessment In Action",
    "product_CODED": "EP10",
@@ -10695,7 +10695,7 @@
  },
  {
    "id": 487,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup’s EP10 Assessment Overview – Sangeeta Badal, Ph.D. (New)",
    "product_CODED": "EP10",
@@ -10717,7 +10717,7 @@
  },
  {
    "id": 488,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Copy of Gallup’s EP10 Assessment Overview – Sangeeta Badal, Ph.D.",
    "product_CODED": "EP10",
@@ -10739,7 +10739,7 @@
  },
  {
    "id": 489,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Gallup's Strengths Spotlight - Mark Pogue on StrengthsQuest",
    "product_CODED": "Coaching, SQ",
@@ -10761,7 +10761,7 @@
  },
  {
    "id": 490,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10783,7 +10783,7 @@
  },
  {
    "id": 491,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10805,7 +10805,7 @@
  },
  {
    "id": 492,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10827,7 +10827,7 @@
  },
  {
    "id": 493,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10849,7 +10849,7 @@
  },
  {
    "id": 494,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10871,7 +10871,7 @@
  },
  {
    "id": 495,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10893,7 +10893,7 @@
  },
  {
    "id": 496,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10915,7 +10915,7 @@
  },
  {
    "id": 497,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10937,7 +10937,7 @@
  },
  {
    "id": 498,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10959,7 +10959,7 @@
  },
  {
    "id": 499,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -10981,7 +10981,7 @@
  },
  {
    "id": 500,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11003,7 +11003,7 @@
  },
  {
    "id": 501,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11025,7 +11025,7 @@
  },
  {
    "id": 502,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11047,7 +11047,7 @@
  },
  {
    "id": 503,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11069,7 +11069,7 @@
  },
  {
    "id": 504,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11091,7 +11091,7 @@
  },
  {
    "id": 505,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11113,7 +11113,7 @@
  },
  {
    "id": 506,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11135,7 +11135,7 @@
  },
  {
    "id": 507,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11157,7 +11157,7 @@
  },
  {
    "id": 508,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11179,7 +11179,7 @@
  },
  {
    "id": 509,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11201,7 +11201,7 @@
  },
  {
    "id": 510,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11223,7 +11223,7 @@
  },
  {
    "id": 511,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11245,7 +11245,7 @@
  },
  {
    "id": 512,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11267,7 +11267,7 @@
  },
  {
    "id": 513,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11289,7 +11289,7 @@
  },
  {
    "id": 514,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11311,7 +11311,7 @@
  },
  {
    "id": 515,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11333,7 +11333,7 @@
  },
  {
    "id": 516,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11355,7 +11355,7 @@
  },
  {
    "id": 517,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11377,7 +11377,7 @@
  },
  {
    "id": 518,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11399,7 +11399,7 @@
  },
  {
    "id": 519,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11421,7 +11421,7 @@
  },
  {
    "id": 520,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11443,7 +11443,7 @@
  },
  {
    "id": 521,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11465,7 +11465,7 @@
  },
  {
    "id": 522,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11487,7 +11487,7 @@
  },
  {
    "id": 523,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11509,7 +11509,7 @@
  },
  {
    "id": 524,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11531,7 +11531,7 @@
  },
  {
    "id": 525,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11553,7 +11553,7 @@
  },
  {
    "id": 526,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11575,7 +11575,7 @@
  },
  {
    "id": 527,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11597,7 +11597,7 @@
  },
  {
    "id": 528,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11619,7 +11619,7 @@
  },
  {
    "id": 529,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11641,7 +11641,7 @@
  },
  {
    "id": 530,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11663,7 +11663,7 @@
  },
  {
    "id": 531,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11685,7 +11685,7 @@
  },
  {
    "id": 532,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11707,7 +11707,7 @@
  },
  {
    "id": 533,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11729,7 +11729,7 @@
  },
  {
    "id": 534,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11751,7 +11751,7 @@
  },
  {
    "id": 535,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11773,7 +11773,7 @@
  },
  {
    "id": 536,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11795,7 +11795,7 @@
  },
  {
    "id": 537,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11817,7 +11817,7 @@
  },
  {
    "id": 538,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11839,7 +11839,7 @@
  },
  {
    "id": 539,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11861,7 +11861,7 @@
  },
  {
    "id": 540,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11883,7 +11883,7 @@
  },
  {
    "id": 541,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11905,7 +11905,7 @@
  },
  {
    "id": 542,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11927,7 +11927,7 @@
  },
  {
    "id": 543,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11949,7 +11949,7 @@
  },
  {
    "id": 544,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11971,7 +11971,7 @@
  },
  {
    "id": 545,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -11993,7 +11993,7 @@
  },
  {
    "id": 546,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12015,7 +12015,7 @@
  },
  {
    "id": 547,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12037,7 +12037,7 @@
  },
  {
    "id": 548,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12059,7 +12059,7 @@
  },
  {
    "id": 549,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12081,7 +12081,7 @@
  },
  {
    "id": 550,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12103,7 +12103,7 @@
  },
  {
    "id": 551,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12125,7 +12125,7 @@
  },
  {
    "id": 552,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12147,7 +12147,7 @@
  },
  {
    "id": 553,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12169,7 +12169,7 @@
  },
  {
    "id": 554,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12191,7 +12191,7 @@
  },
  {
    "id": 555,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12213,7 +12213,7 @@
  },
  {
    "id": 556,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12235,7 +12235,7 @@
  },
  {
    "id": 557,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12257,7 +12257,7 @@
  },
  {
    "id": 558,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12279,7 +12279,7 @@
  },
  {
    "id": 559,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12301,7 +12301,7 @@
  },
  {
    "id": 560,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12323,7 +12323,7 @@
  },
  {
    "id": 561,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12345,7 +12345,7 @@
  },
  {
    "id": 562,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12367,7 +12367,7 @@
  },
  {
    "id": 563,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12389,7 +12389,7 @@
  },
  {
    "id": 564,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12411,7 +12411,7 @@
  },
  {
    "id": 565,
-   "source": "YT - GSC",
+   "source": ["YouTube: Gallup Strengths Center"],
    "category": "Social",
    "title": "Accelerated Strengths Coaching Program",
    "product_CODED": "Coaching",
@@ -12433,7 +12433,7 @@
  },
  {
    "id": 566,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Strengths",
    "title": "Clifton StrengthsFinder",
    "product_CODED": "SF",
@@ -12455,7 +12455,7 @@
  },
  {
    "id": 567,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Asia Pacific, Australia, All Gallup Headlines, Education, Gallup Student Poll, Hope, K-12, Opinion, Strengths, Strengths-Based Development, The Gallup Blog",
    "title": "Many Australian Students Lack Hope for the Future",
    "product_CODED": "SF",
@@ -12477,7 +12477,7 @@
  },
  {
    "id": 568,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Strengths",
    "title": "2015 Strengths Meta-Analysis",
    "product_CODED": "SF",
@@ -12499,7 +12499,7 @@
  },
  {
    "id": 569,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Business Journal, Customer Engagement, Employee Engagement, Strengths, Strengths-Based Development Talent-Based Hiring, Workplace",
    "title": "Strengths-Based Employee Development: The Business Results",
    "product_CODED": "SF",
@@ -12521,7 +12521,7 @@
  },
  {
    "id": 570,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Leadership, Leadership & Coaching, Opinion, Strengths, Strengths-Based Culture, Strengths-Based Development, Strengths-Based Selection,The Chairman's Blog, Workplace",
    "title": "Everybody Needs a Coach",
    "product_CODED": "Coaching",
@@ -12543,7 +12543,7 @@
  },
  {
    "id": 571,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Strengths, Online Products - Clifton StrengthsFinder",
    "title": "Strengths Coaching Courses",
    "product_CODED": "Coaching",
@@ -12565,7 +12565,7 @@
  },
  {
    "id": 572,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Business Journal, Change Management, Employee Engagement, Leadership, Strengths, Strengths-Based Development, Talent-Based Hiring, Workplace",
    "title": "Managing in Tough Financial Times: Does Engagement Help?",
    "product_CODED": "SF",
@@ -12587,7 +12587,7 @@
  },
  {
    "id": 573,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Strengths",
    "title": "CliftonStrengths Summit",
    "product_CODED": "SF",
@@ -12609,7 +12609,7 @@
  },
  {
    "id": 574,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "USA, All Gallup Headlines, Books, Education, Education and Families, Opinion, Social Issues, Strengths, Strengths-Based Culture, Strengths-Based Development, The Gallup Blog",
    "title": "New Gallup Book Focuses on Strengths-Based Parenting",
    "product_CODED": "SE",
@@ -12631,7 +12631,7 @@
  },
  {
    "id": 575,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Business Journal, Employee Engagement, Organizational Identity, Strengths, Strengths-Based Culture, Strengths-Based Development, Talent-Based Hiring, Workplace",
    "title": "What Attracts the Best Employees to a Company?",
    "product_CODED": "SF",
@@ -12653,7 +12653,7 @@
  },
  {
    "id": 576,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Business Journal, Employee Engagement, Leadership Performance, Management, Strengths, Strengths-Based Development, Workplace",
    "title": "Rhode Island Wants to Be the First \"Strengths-Based State\"",
    "product_CODED": "SF",
@@ -12675,7 +12675,7 @@
  },
  {
    "id": 577,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Business Journal, Employee Engagement, Leadership, Leadership & Coaching, Organizational Identity, Selection, Strengths, Strengths-Based Development, Talent-Based Hiring",
    "title": "Tough Task: Recruiting Top Leaders From Other Companies",
    "product_CODED": "SF",
@@ -12697,7 +12697,7 @@
  },
  {
    "id": 578,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Germany, Germany, All Gallup Headlines, Business Journal, Employee Engagement, Strengths, Strengths-Based Development, Workplace",
    "title": "German Managers Not Strengths-Focused",
    "product_CODED": "SF",
@@ -12719,7 +12719,7 @@
  },
  {
    "id": 579,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Business Journal, Employee Engagement, Strengths, Strengths-Based Development, Talent-Based Hiring, Workplace",
    "title": "What Job-Hopping Employees Are Looking For",
    "product_CODED": "SF",
@@ -12741,7 +12741,7 @@
  },
  {
    "id": 580,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Strengths",
    "title": "Increase Student Recognition to Unlock Engagement",
    "product_CODED": "SF",
@@ -12763,7 +12763,7 @@
  },
  {
    "id": 581,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Business Journal, Leadership, Performance Management, Recognition, Strengths, Strengths-Based Development, Workplace",
    "title": "Employees Who Use Their Strengths Outperform Those Who Don't",
    "product_CODED": "SF",
@@ -12785,7 +12785,7 @@
  },
  {
    "id": 582,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Blog, Education, Employee Engagement, Opinion, Strengths, Well-Being, Workplace",
    "title": "The Two Most Important Questions for Graduates",
    "product_CODED": "SF",
@@ -12807,7 +12807,7 @@
  },
  {
    "id": 583,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Entrepreneurship, Jobs, Leadership, Opinion, Strengths, The Chairman's Blog, USA, Workplace",
    "title": "$30 Million Gift Creates the Don Clifton Strengths Institute",
    "product_CODED": "SF",
@@ -12829,7 +12829,7 @@
  },
  {
    "id": 584,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Business Journal, Healthcare, Strengths, Strengths-Based Development",
    "title": "An Effective Strengths Program: Cardinal Health Case Study",
    "product_CODED": "SF",
@@ -12851,7 +12851,7 @@
  },
  {
    "id": 585,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Strengths",
    "title": "State of the American Manager",
    "product_CODED": "SF",
@@ -12873,7 +12873,7 @@
  },
  {
    "id": 586,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Strengths, Strengths-Based Development, Workplace",
    "title": "Finding Compatible Work Partners Is, Well, Work",
    "product_CODED": "SF",
@@ -12895,7 +12895,7 @@
  },
  {
    "id": 587,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Opinion, Strengths, The Chairman's Blog",
    "title": "Left to Chance: Early Identification and Development of Gifted Entrepreneurs",
    "product_CODED": "SF",
@@ -12917,7 +12917,7 @@
  },
  {
    "id": 588,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Blog, Opinion, Strengths, The Gallup Blog",
    "title": "Workforces Devoted to Weaknesses Are Dangerous",
    "product_CODED": "SF",
@@ -12939,7 +12939,7 @@
  },
  {
    "id": 589,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Blog, Education, Opinion, Strengths, The Gallup Blog",
    "title": "Engaging Students Is the Key to Teacher Effectiveness",
    "product_CODED": "SF",
@@ -12961,7 +12961,7 @@
  },
  {
    "id": 590,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Human Capital, Opinion, Strengths, The Gallup Blog",
    "title": "Data-Driven Science Detects \"Softer\" Talents",
    "product_CODED": "SF",
@@ -12983,7 +12983,7 @@
  },
  {
    "id": 591,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Brain, Gain, Business, Economic Confidence, Economy, Education, Good Jobs, Job Creation, Northern America, Strengths, USA, Well-Being",
    "title": "College-Educated Americans Less Engaged in Jobs",
    "product_CODED": "SF",
@@ -13005,7 +13005,7 @@
  },
  {
    "id": 592,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Baby Boomers, Generation X, Northern America, Strengths, USA, Well-Being, Well-Being Index",
    "title": "Baby Boomers Not Maximizing Their Strengths",
    "product_CODED": "SF, WB",
@@ -13027,7 +13027,7 @@
  },
  {
    "id": 593,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Northern America, Strengths, USA, Well-Being, Well-Being Index",
    "title": "Americans Use Their Strengths the Least on Sundays",
    "product_CODED": "SF, WB",
@@ -13049,7 +13049,7 @@
  },
  {
    "id": 594,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Employee Engagement, Northern America, Strengths, USA, Well-Being, Well-Being Index",
    "title": "When Americans Use Their Strengths More, They Stress Less",
    "product_CODED": "SF, WB",
@@ -13071,7 +13071,7 @@
  },
  {
    "id": 595,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Northern America, Strengths, USA, Well-Being",
    "title": "Half in U.S. Don't Use Their Strengths Throughout the Day",
    "product_CODED": "SF, WB",
@@ -13093,7 +13093,7 @@
  },
  {
    "id": 596,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Blog, Education, Opinion, Strengths, The Gallup Blog",
    "title": "Gallup at White House Education Event: Standardized Testing is Holding Us Back",
    "product_CODED": "SF",
@@ -13115,7 +13115,7 @@
  },
  {
    "id": 597,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Blog, Opinion, Strengths, The Gallup Blog",
    "title": "Seven Reasons to Lead With Strengths",
    "product_CODED": "SF",
@@ -13137,7 +13137,7 @@
  },
  {
    "id": 598,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Blog, Opinion, Strengths, The Gallup Blog",
    "title": "StrengthsFinder 2.0 Now Available in Mandarin",
    "product_CODED": "SF",
@@ -13159,7 +13159,7 @@
  },
  {
    "id": 599,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Northern America, Strengths, USA, Well-Being, Well-Being Index",
    "title": "Mondays Not So \"Blue\" for Engaged Employees",
    "product_CODED": "SF, WB",
@@ -13181,7 +13181,7 @@
  },
  {
    "id": 600,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Strengths, Strengths-Based Development, Training, Workplace",
    "title": "Why Strengths Matter in Training",
    "product_CODED": "SF",
@@ -13203,7 +13203,7 @@
  },
  {
    "id": 601,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Building Teams, Business, Journal, Strengths, Strengths-Based Development, Workplace",
    "title": "Embedding Strengths in Your Company's DNA",
    "product_CODED": "SF",
@@ -13225,7 +13225,7 @@
  },
  {
    "id": 602,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Employee Engagement, Productivity, Strengths, Strengths-Based Development, Workplace",
    "title": "Strengths-Based Goal Setting",
    "product_CODED": "SF",
@@ -13247,7 +13247,7 @@
  },
  {
    "id": 603,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Leadership, Performance Management, Strengths, Strengths-Based, Development, Workplace",
    "title": "Does Setting Major Development Goals Work?",
    "product_CODED": "SF",
@@ -13269,7 +13269,7 @@
  },
  {
    "id": 604,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Career, Employee Engagement. Health, Jobs, Northern America, Strengths, USA, Well-Being, Well-Being Index, Workplace",
    "title": "Majority of American Workers Not Engaged in Their Jobs",
    "product_CODED": "SF, WB",
@@ -13291,7 +13291,7 @@
  },
  {
    "id": 605,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "All Gallup Headlines, Career, Employee Engagement, Jobs Selection, Northern America, Social Issues, Strengths, USA, Well-Being, Well-Being Index, Workplace",
    "title": "Engaged Workers Report Twice as Much Job Creation",
    "product_CODED": "SF, WB",
@@ -13313,7 +13313,7 @@
  },
  {
    "id": 606,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Employee Engagement, Performance Management, Strengths, Strengths-Based Development, Workplace",
    "title": "The Secret of Higher Performance",
    "product_CODED": "SF",
@@ -13335,7 +13335,7 @@
  },
  {
    "id": 607,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Strengths, Strengths-Based Development, Workplace",
    "title": "Making Strengths-Based Development Work",
    "product_CODED": "SF",
@@ -13357,7 +13357,7 @@
  },
  {
    "id": 608,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Performance Management, Strengths, Strengths-Based Development",
    "title": "Driving Engagement by Focusing on Strengths",
    "product_CODED": "SF",
@@ -13379,7 +13379,7 @@
  },
  {
    "id": 609,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Employee Engagement, Leadership, Strengths, Strengths-Based Development, Workplace",
    "title": "Finding Your Leadership Strengths",
    "product_CODED": "SF",
@@ -13401,7 +13401,7 @@
  },
  {
    "id": 610,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Employee Engagement, Performance Management, Productivity, Strengths, Strengths-Based Development, Workplace",
    "title": "Strengthening Your Company's Performance",
    "product_CODED": "SF",
@@ -13423,7 +13423,7 @@
  },
  {
    "id": 611,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Employee Engagement, Strengths, Strengths-Based Development, Workplace",
    "title": "How Strengths Boost Engagement",
    "product_CODED": "SF",
@@ -13445,7 +13445,7 @@
  },
  {
    "id": 612,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Employee Engagement, Leadership, Performance, Management, Strengths-Based Development, Strengths-Based Selection, Workplace",
    "title": "To Win With Natural Talent, Go For Additive Effects",
    "product_CODED": "Q12",
@@ -13467,7 +13467,7 @@
  },
  {
    "id": 613,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Business Journal, Employee Engagement, Strengths-Based Development, Workplace",
    "title": "How Employees' Strengths Make Your Company Stronger",
    "product_CODED": "Q12",
@@ -13489,7 +13489,7 @@
  },
  {
    "id": 614,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Blog, Employee Engagement, Opinion, The Gallup Blog, Workplace",
    "title": "Managing Employees Remotely: Ways to Make It Work",
    "product_CODED": "SF",
@@ -13511,7 +13511,7 @@
  },
  {
    "id": 615,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Online Products - Clifton StrengthsFinder",
    "title": "Clifton StrengthsFinder",
    "product_CODED": "SF",
@@ -13533,7 +13533,7 @@
  },
  {
    "id": 616,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Online Products - High-Performance Management Course",
    "title": "High-Performance Management Course",
    "product_CODED": "Q12",
@@ -13555,7 +13555,7 @@
  },
  {
    "id": 617,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Online Products - High-Performance Management Course",
    "title": "High-Performance Management Course Flyer",
    "product_CODED": "Q12",
@@ -13577,7 +13577,7 @@
  },
  {
    "id": 618,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Online Products - Q12 Employee Engagement Center",
    "title": "Q12 Employee Engagement Center",
    "product_CODED": "Q12",
@@ -13599,7 +13599,7 @@
  },
  {
    "id": 619,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Online Products - Q12 Employee Engagement Center",
    "title": "Q12 Meta-Analysis: The Relationship Between Engagement at Work and Organizational Outcomes",
    "product_CODED": "Q12",
@@ -13621,7 +13621,7 @@
  },
  {
    "id": 620,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Online Products - Faith Member Engagement",
    "title": "Faith Member Engagement",
    "product_CODED": "ME25, SF",
@@ -13643,7 +13643,7 @@
  },
  {
    "id": 621,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Online Products - Strengths Courses for Educators, Client Service - K-12, Client Services - Higher Education",
    "title": "Strengths Courses for Educators",
    "product_CODED": "SE, SQ",
@@ -13665,7 +13665,7 @@
  },
  {
    "id": 622,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Online Products - StrengthsQuest",
    "title": "StrengthsQuest",
    "product_CODED": "SQ",
@@ -13687,7 +13687,7 @@
  },
  {
    "id": 623,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Online Products - Clifton StrengthsFinder",
    "title": "Coaching Entrepreneurial Talents Course",
    "product_CODED": "EP10",
@@ -13709,7 +13709,7 @@
  },
  {
    "id": 624,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Employee Engagement",
    "title": "Employee Engagement Center",
    "product_CODED": "Q12",
@@ -13731,7 +13731,7 @@
  },
  {
    "id": 625,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Employee Engagement",
    "title": "Focus on Customer and Employee Engagement Leads to Dramatic Growth in Profits and Sales",
    "product_CODED": "Q12",
@@ -13753,7 +13753,7 @@
  },
  {
    "id": 626,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Employee Engagement",
    "title": "Mary Lanning Healthcare Transforms Into a 1ly Successful Organization Powered by an Engaged Workforce",
    "product_CODED": "Q12",
@@ -13775,7 +13775,7 @@
  },
  {
    "id": 627,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Employee Engagement",
    "title": "Reducing Turnover by Focusing on Employees' Strengths and Engagement",
    "product_CODED": "Q12",
@@ -13797,7 +13797,7 @@
  },
  {
    "id": 628,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Employee Engagement",
    "title": "Hiring and Engaging Talent Puts Company Back on Growth Track",
    "product_CODED": "Q12",
@@ -13819,7 +13819,7 @@
  },
  {
    "id": 629,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Leadership and Coaching",
    "title": "Leadership and Coaching",
    "product_CODED": "Coaching",
@@ -13841,7 +13841,7 @@
  },
  {
    "id": 630,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Strengths-Based Culture",
    "title": "Strengths-Based Culture",
    "product_CODED": "Q12",
@@ -13863,7 +13863,7 @@
  },
  {
    "id": 631,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Learning and Development",
    "title": "Learning and Development",
    "product_CODED": "Q12",
@@ -13885,7 +13885,7 @@
  },
  {
    "id": 632,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - K-12",
    "title": "K-12 Schools",
    "product_CODED": "SE, SQ",
@@ -13907,7 +13907,7 @@
  },
  {
    "id": 633,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Higher Education",
    "title": "Higher Education",
    "product_CODED": "SQ",
@@ -13929,7 +13929,7 @@
  },
  {
    "id": 634,
-   "source": "Gallup.com",
+   "source": ["Gallup.com"],
    "category": "Client Services - Higher Education",
    "title": "Gallup Higher Education Solutions",
    "product_CODED": "SQ",
@@ -13951,7 +13951,7 @@
  },
  {
    "id": 635,
-   "source": "Strengths platform suite",
+   "source": ["Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Contact a Gallup Expert, Develop Engaged & Thriving Students Using StrengthsQuest",
    "product_CODED": "SQ",
@@ -13973,7 +13973,7 @@
  },
  {
    "id": 636,
-   "source": "Gallup.com, Strengths platform suite",
+   "source": ["Gallup.com", "Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "2016 Gallup College and University Presidents Study",
    "product_CODED": "SQ",
@@ -13995,7 +13995,7 @@
  },
  {
    "id": 637,
-   "source": "Gallup.com, Strengths platform suite",
+   "source": ["Gallup.com", "Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Fraternity and Sorority Membership Linked to Higher Well-Being for College Grads",
    "product_CODED": "SQ",
@@ -14017,7 +14017,7 @@
  },
  {
    "id": 638,
-   "source": "Gallup.com, Strengths platform suite",
+   "source": ["Gallup.com", "Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Aiming Higher Education at Great Jobs and Great Lives",
    "product_CODED": "SQ",
@@ -14039,7 +14039,7 @@
  },
  {
    "id": 639,
-   "source": "YouTube - Gallup, Strengths platform suite",
+   "source": ["Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Creating Engaging Learning Environments: Focus on Strengths",
    "product_CODED": "SQ",
@@ -14061,7 +14061,7 @@
  },
  {
    "id": 640,
-   "source": "Blog, Strengths platform suite",
+   "source": ["Blog", "Strengths platform suite"],
    "category": "Social, StrengthsQuest",
    "title": "Schools Using Strengths - University of Colorado",
    "product_CODED": "SQ",
@@ -14083,7 +14083,7 @@
  },
  {
    "id": 641,
-   "source": "Client Site, Strengths platform suite",
+   "source": ["Client Site", "Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Schools Using Strengths - Kansas State University",
    "product_CODED": "SQ",
@@ -14105,7 +14105,7 @@
  },
  {
    "id": 642,
-   "source": "Client Site, Strengths platform suite",
+   "source": ["Client Site", "Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Schools Using Strengths - University of Chicago",
    "product_CODED": "SQ",
@@ -14127,7 +14127,7 @@
  },
  {
    "id": 643,
-   "source": "Strengths platform suite",
+   "source": ["Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Clifton Strengths Finder - Gallup-Purdue Index 2015 Report",
    "product_CODED": "SQ",
@@ -14149,7 +14149,7 @@
  },
  {
    "id": 644,
-   "source": "Strengths platform suite",
+   "source": ["Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Clifton Strengths Finder - Gallup-Purdue Index 2014 Report",
    "product_CODED": "SQ",
@@ -14171,7 +14171,7 @@
  },
  {
    "id": 645,
-   "source": "Strengths platform suite",
+   "source": ["Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Clifton Strengths Finder - The Clifton StrengthsFinder® and Student Development",
    "product_CODED": "SQ",
@@ -14193,7 +14193,7 @@
  },
  {
    "id": 646,
-   "source": "Strengths platform suite",
+   "source": ["Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Buy StrengthsQuest Codes - I'm buying for a group - Groups or Departments",
    "product_CODED": "SQ",
@@ -14215,7 +14215,7 @@
  },
  {
    "id": 647,
-   "source": "Strengths platform suite",
+   "source": ["Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Buy StrengthsQuest Codes - I'm buying for a group - For Your Entire Campus",
    "product_CODED": "SQ",
@@ -14237,7 +14237,7 @@
  },
  {
    "id": 648,
-   "source": "Strengths platform suite",
+   "source": ["Strengths platform suite"],
    "category": "StrengthsQuest",
    "title": "Create the Right Learning Path for Your Campus",
    "product_CODED": "SQ",
