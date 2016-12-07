@@ -4,6 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Exchange Learning | Algolia</title>
+  <script src="https://use.typekit.net/wpz6tgk.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css" />  
@@ -12,10 +14,9 @@
 
 <body>
 
-  <header>
-    <div class="container-fluid">
+  <header class="header">
+    <div class="container">
       <div class="row">
-        <div class="col-xs-8 col-sm-3"> <h1 class="title"> Search Strengths Content </h1></div>
         <div class="col-xs-4 col-sm-2 col-sm-push-7"><a class="is-logo" href="https://www.gallupexchange.com/Home/Index"><img src="logo-is.png" width="100"></a></div>        
         <div class="col-sm-7 col-sm-pull-2">    <div class="input-group">
           <input class="form-control" id="q" type="text"> <span class="input-group-btn"><button class="btn btn-default"><span class="input-group-btn"><i class="fa fa-search"></i></span></button></span>
@@ -24,7 +25,7 @@
       </div>
     </div>
   </header>
-  <section class="container-fluid">
+  <section class="container">
     <div class="row">
       <aside class="col-sm-3">
         <h3 class="facet-category-title">Filter Results</h3>
@@ -37,19 +38,12 @@
           <h3 class="facet-category-title">
             Audience <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#audience" aria-expanded="false" aria-controls="audience"></button>
           </h3>
-          <div class="facet collapse" id="audience"></div>  
           <h3 class="facet-category-title">
             Media Type <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#media_type" aria-expanded="false" aria-controls="media_type"></button>
           </h3>
-          <div class="facet collapse" id="media_type"></div>  
           <h3 class="facet-category-title">
             Languages <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#languages" aria-expanded="false" aria-controls="languages"></button>
           </h3>
-          <div class="facet collapse" id="languages"></div>  
-            <h3 class="facet-category-title">
-            Source <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#source" aria-expanded="false" aria-controls="source"></button>
-          </h3>
-          <div class="facet collapse" id="source"></div> 
           <h3 class="facet-category-title">
             Product <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#product" aria-expanded="false" aria-controls="product"></button>
           </h3>
@@ -61,7 +55,6 @@
       <main class="col-sm-9">
 
         <div id="results-topbar" class="results-topbar">
-          <div class="sort-by">
             <label>Sort by</label>
             <div id="sort-by-selector"></div>
           </div>
@@ -76,8 +69,10 @@
     </div>
   </section>
 
+          </div>
+
+          </div>
   <!-- Scripts -->
-  <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery/1.11.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="search.js"></script>

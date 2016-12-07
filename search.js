@@ -1,10 +1,33 @@
 'use strict';
 /* global instantsearch */
 
+var getTemplateByID = function(ID){
+  return document.getElementById(ID).innerHTML.toString();
+}
+
+var highlightShortValue = function(hightlightResult, letter_padding){
+    var letterPadding = letter_padding | 50,
+    stringValue = hightlightResult,
+    startIndex, endIndex, startString, endString;
+
+  startIndex = Math.max( stringValue.indexOf('<em>') - letterPadding, 0 );
+  endIndex = Math.min( stringValue.lastIndexOf('</em>') + letterPadding, stringValue.length );
+
+  startString =  ( startIndex > 0 ) ? '... ' : '';
+  endString = ( endString !== stringValue.length ) ? ' ...' : '';
+
+  return startString + stringValue.substring(startIndex, endIndex) + endString;
+
+}
+
 var search = instantsearch({
   appId: 'YORNOA2EPS',
   apiKey: '6f2b9a275341d6961c799a2981b9d663',
-  indexName: 'coaching_content'
+  indexName: 'coaching_content',
+  searchParameters: {
+    getRankingInfo: true,
+    // aroundLatLngViaIP: true
+  }
 });
 
 search.addWidget(
@@ -21,22 +44,18 @@ search.addWidget(
 );
 
 search.on('render', function() {
-  console.log(this);
-  $('.coach-picture img').addClass('transparent');
-  $('.coach-picture img').one('load', function() {
-      $(this).removeClass('transparent');
-  }).each(function() {
-      /*if(this.complete)*/ $(this).load();
-  });
+  // console.log(data);
 });
 
 var hitTemplate =
   '<article class="hit">' +
-      '<div class="content-desc-wrapper">' +
-        '<div class="content-title"><a href={{{URL}}}>{{{_highlightResult.title.value}}}</a></div>' +
-        '<div class="content-date">{{date}}</div>' +
-        '<div class="content-description">{{{_highlightResult.description.value}}}</div>' +
-      '</div>' +
+    '<div class="coach-picture" style="background-image:url({{imagepath}});"></div>' +
+    '<div class="coach-desc">' +
+      '<div class="coach-fullname"><a href="{{URL}}" target="_blank">{{{_highlightResult.firstname.value}}} {{{_highlightResult.lastname.value}}}</a></div>' +
+      '<div class="coach-title">{{{_highlightResult.title.value}}}</div>' +
+      '<div class="coach-location">{{city}}, {{state}}</div>' +
+    '</div>' +
+      /*'<div class="content-descrption">{{#stars}}<span class="ais-star-rating--star{{^.}}__empty{{/.}}"></span>{{/stars}}</div>' +*/
   '</article>';
 
 var noResultsTemplate =
@@ -59,18 +78,48 @@ search.addWidget(
     highlightPostTag: "</em>",    
     templates: {
       empty: noResultsTemplate,
-      item:  hitTemplate
+      item: getTemplateByID('template-hit-coach')
     },
     transformData: function(hit) {
-      hit.stars = [];
-      for (var i = 1; i <= 5; ++i) {
-        hit.stars.push(i <= hit.rating);
+      console.log(hit);
+      if(hit._highlightResult.bio.matchedWords.length > 0){
+        hit.bio_short = highlightShortValue(hit._highlightResult.bio.value)
+      }else{
+        hit.bio_short = hit.bio.substr(0, 165) + '...';
       }
+      
+      if(hit.reviews){
+        hit.review_percentage = 'style=width:' + (hit.reviews.average / 5) * 100 + '%;';
+      }
+      
+      if(hit.packages){
+        hit.package_count = hit.packages.length;
+        var startPrice;
+        
+        for(var i = 0, l = hit.package_count; i < l; i++){
+          //Finds the lowest package price
+          if(startPrice == undefined){
+            startPrice = hit.packages[i].price;
+          }else{
+            startPrice = Math.min(startPrice, hit.packages[i].price);
+          }
+
+          //Shorten the package description
+          hit.packages[i].desc_short = hit.packages[i].description.substr(0, 100) + '...';
+        }
+
+        hit.package_starting_price = startPrice;
+      }
+
+      // if(hit._highlightResult.packages){
+      //   $.each(hit._highlightResult.packages, function(singlePackage){
+      //     // if(singlePackage.package_title.matchedWords.length > 0){
+
+      //     // }
+      //   });
+      // }
+      
       return hit;
-    },
-    cssClasses: {
-      root: 'row',
-      item: 'col-xs-6 col-sm-4'
     }
   })
 );
@@ -91,9 +140,9 @@ search.addWidget(
 
 search.addWidget(
   instantsearch.widgets.refinementList({
-    container: '#audience',
-    attributeName: 'audience',
-    limit: 100,
+    container: '#type',
+    attributeName: 'packages.session_type',
+    limit: 20,
     cssClasses: {
       root: 'checkbox',
       list: 'list-group', 
@@ -104,9 +153,9 @@ search.addWidget(
 
 search.addWidget(
   instantsearch.widgets.refinementList({
-    container: '#media_type',
-    attributeName: 'media_type',
-    limit: 1000,
+    container: '#method',
+    attributeName: 'packages.methods',
+    limit: 20,
     cssClasses: {
       root: 'checkbox',
       list: 'list-group', 
@@ -118,9 +167,9 @@ search.addWidget(
 
 search.addWidget(
   instantsearch.widgets.refinementList({
-    container: '#languages',
-    attributeName: 'languages',
-    limit: 1000,
+    container: '#gender',
+    attributeName: 'gender',
+    limit: 20,
     cssClasses: {
       root: 'checkbox',
       list: 'list-group', 
@@ -130,10 +179,21 @@ search.addWidget(
 );
 
 search.addWidget(
+  instantsearch.widgets.starRating({
+    container: '#averagerating',
+    attributeName: 'reviews.average',
+    max: 5,
+    labels: {
+      andUp: '& Up'
+    }
+  })
+);
+
+search.addWidget(
   instantsearch.widgets.refinementList({
-    container: '#source',
-    attributeName: 'source',
-    limit: 1000,
+    container: '#specialties',
+    attributeName: 'packages.specialties',
+    limit: 20,
     cssClasses: {
       root: 'checkbox',
       list: 'list-group', 
@@ -143,15 +203,33 @@ search.addWidget(
 );
 
 search.addWidget(
-  instantsearch.widgets.refinementList({
-    container: '#product',
-    attributeName: 'product',
-    limit: 1000,
-    cssClasses: {
-      root: 'checkbox',
-      list: 'list-group', 
-      item: 'list-group-item' 
+  instantsearch.widgets.hierarchicalMenu({
+    container: '#location',
+    attributes: ['state', 'citystate'],
+    sortBy: ['name:asc'],
+    limit: 50,
+    templates: {
+      item: menuTemplate
     }
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.priceRanges({
+    container: '#price',
+    attributeName: 'packages.price',
+    cssClasses: {
+      list: 'nav nav-list',
+      count: 'badge pull-right',
+      active: 'active'
+    }
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.rangeSlider({
+    container: '#numberofsessions',
+    attributeName: 'packages.numberofsessions',
   })
 );
 
@@ -159,8 +237,11 @@ search.addWidget(
   instantsearch.widgets.sortBySelector({
     container: '#sort-by-selector',
     indices: [
-      {name: 'coaching_content', label: 'Default'},
-      {name: 'coaching_content_date', label: 'Most recent'},
+      {name: 'coach_packages', label: 'Default'},
+      {name: 'coach_packages_price_asc', label: 'Price High to Low'},
+      {name: 'coach_packages_price_desc', label: 'Price Low to High'},
+      {name: 'coach_packages_ratings_desc', label: 'Ratings High to Low'},
+      {name: 'coach_packages_ratings_asc', label: 'Ratings Low to High'}
     ],
     label:'sort by'
   })
@@ -177,6 +258,27 @@ search.addWidget(
       root: 'btn btn-block btn-default'
     },
     autoHideContainer: true
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.currentRefinedValues({
+    container: '#current-filters',
+    clearAll: 'after',
+    templates: {
+      item: function(data){
+        console.log(data);
+        var s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' +
+        data.name + ' <span class="ais-current-refined-values--count"> (' + data.count + ')</span>'
+        return s;
+      }
+    },
+    attributes: [
+      { name: 'chris' }
+    ],
+    cssClasses: {
+      link: 'label label-default'
+    }
   })
 );
 
